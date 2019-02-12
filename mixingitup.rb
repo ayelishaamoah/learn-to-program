@@ -41,4 +41,4 @@ puts "Hello #{first_name} #{middle_name} #{last_name}"
 
 puts "Hello, what is your favourite number?"
 fav_number = gets.chomp.to_i
-puts "What about #{fav_number +1}, this could be a better favourite number"
+puts "What about #{fav_number + 1}, this could be a better favourite number"
