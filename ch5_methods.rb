@@ -38,6 +38,7 @@ puts "WHADDAYA MEAN \"#{input.upcase}.\"?!? YOU'RE FIRED!!"
 puts rand # generates a random number >= 0 and < 1
 puts rand(100) # generates a random number >= 0 and < 100
 
+# Math object - gives you the functionality of a scientific calculator
 puts(Math::PI)
 puts(Math::E)
 puts(Math.cos(Math::PI/3))
